@@ -29,3 +29,4 @@ Acúmulo e resgate de pontos em compras futuras
 Relatórios de vendas diárias, semanais e mensais
 Relatórios de estoque
 Relatórios de desempenho de promoções e fidelidade
+![WhatsApp Image 2025-01-30 at 23 00 58](https://github.com/user-attachments/assets/6051ab7a-3a86-47c8-aa25-d7131e6b64ec)
